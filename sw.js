@@ -1,5 +1,5 @@
 // Service worker: tiene l'app e i dati sul telefono per usarla anche senza rete.
-const VERSIONE = 'interruzioni-v1';
+const VERSIONE = 'interruzioni-v2';
 const FILE_APP = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png',
   './icon-maskable-512.png', './apple-touch-icon.png',
   'https://cdnjs.cloudflare.com/ajax/libs/qrcode-generator/1.4.4/qrcode.min.js'];
