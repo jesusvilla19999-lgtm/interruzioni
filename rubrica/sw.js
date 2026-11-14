@@ -1,5 +1,5 @@
 // Service worker: tiene la rubrica sul telefono per usarla anche senza rete.
-const VERSIONE = 'rubrica-v1';
+const VERSIONE = 'rubrica-v2';
 const FILE_APP = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png',
   './icon-maskable-512.png', './apple-touch-icon.png'];
 self.addEventListener('install', e => {
